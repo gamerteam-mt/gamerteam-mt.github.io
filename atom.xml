@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gamerteam-mt.github.io</id>
+    <title>GAMER-TEAM官方网站</title>
+    <updated>2025-02-14T11:54:56.895Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gamerteam-mt.github.io"/>
+    <link rel="self" href="https://gamerteam-mt.github.io/atom.xml"/>
+    <subtitle>Welcome come to the GAMER-TEAM club!
+在这里，你将可以玩到最全的SMMWE关卡 以及如何注册账号
+你还可以玩到众多Mario同人游戏</subtitle>
+    <logo>https://gamerteam-mt.github.io/images/avatar.png</logo>
+    <icon>https://gamerteam-mt.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, GAMER-TEAM官方网站</rights>
+    <entry>
+        <title type="html"><![CDATA[Engine Kingdom注册方法]]></title>
+        <id>https://gamerteam-mt.github.io/post/engine-kingdom-register/</id>
+        <link href="https://gamerteam-mt.github.io/post/engine-kingdom-register/">
+        </link>
+        <updated>2025-01-26T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>国际惯例先准备一些材料（游戏资源都在网盘或群里自取）<br>
+1.Discord<br>
+2.SMMWE（可上全球的最新版）</p>
+<!-- 注册方法&下载SMMWE本体 -->
+<p>注册方法&amp;下载SMMWE本体<br>
+1.打开Discord<br>
+点击左侧栏的图标<br>
+<img src="https://gamerteam-mt.github.io/post-images/1737978929302.jpg" alt="" loading="lazy"><br>
+选择加入服务器<br>
+<img src="https://gamerteam-mt.github.io/post-images/1737978944620.jpg" alt="" loading="lazy"><br>
+2.输入邀请链接<br>
+<img src="https://gamerteam-mt.github.io/post-images/1737978954565.jpg" alt="" loading="lazy"><br>
+Engine Kingdom：https://discord.gg/enginekingdom<br>
+即可进入服务器<br>
+2.获得成员标识<br>
+进入EK服务器<br>
+<img src="https://gamerteam-mt.github.io/post-images/1737978980486.jpg" alt="" loading="lazy"><br>
+找到此频道 频道图标：✅<br>
+选择语言 中文<br>
+3.注册基本步骤<br>
+A-下载<br>
+找到<img src="https://gamerteam-mt.github.io/post-images/1737979013325.jpg" alt="" loading="lazy"><br>
+点进去后，会看到如下界面<br>
+<img src="https://gamerteam-mt.github.io/post-images/1737978377550.jpg" alt="" loading="lazy"><br>
+PC版的下第一个windows💻窗口（蓝字第一行是游戏本体，第二行是安装程序）<br>
+安卓手机版的下第二个android📱窗口（该窗口蓝字两个分别是16:9的画面和全屏画面，最下面的是针对于安卓14系统的专用版本）<br>
+（下载需要开科技，不然会很慢）（建议用电脑下载，再把安装包传到手机上）<br>
+B-账号注册<br>
+返回Engine Kingdom社区首页<br>
+频道中选择<img src="https://gamerteam-mt.github.io/post-images/1737979025397.jpg" alt="" loading="lazy"><br>
+点击set-up模块（两个都可以）<br>
+进入后，点击聊天框<br>
+输入/setup指令<br>
+进入如下界面<br>
+<img src="https://gamerteam-mt.github.io/post-images/1737979037164.jpg" alt="" loading="lazy"><br>
+上下两行分别对应的是账号和密码<br>
+注册完之后，当机器人提示Congratulations时，说明账号注册成功<br>
+返回游戏<br>
+使用科技进入全球关卡，输入刚刚已注册好的账号即可游玩</p>
+]]></content>
+    </entry>
+</feed>
